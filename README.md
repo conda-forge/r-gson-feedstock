@@ -1,11 +1,11 @@
-About r-gson
-============
+About r-gson-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gson-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=gson
 
 Package license: Artistic-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gson-feedstock/blob/main/LICENSE.txt)
 
 Summary: Proposes a new file format ('gson') for storing gene set and related information, and provides read, write and other utilities to process this file format.
 
