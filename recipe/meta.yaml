@@ -1,4 +1,4 @@
-{% set version = "0.2.1" %}
+{% set version = "0.2.2" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/gson_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/gson/gson_{{ version }}.tar.gz
-  sha256: 33c71476d8c9839643c01b14726dcb860fd03661098f855e968fd01a6343d451
+  sha256: 583c5bce81f7d551b3bf8bcdfe868a5347a6b91c32e599189b62c701ba2427a3
 
 build:
   number: 0
